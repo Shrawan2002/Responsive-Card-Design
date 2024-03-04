@@ -32,7 +32,13 @@ body{
     
 }
 .card_content{
-    height: 150px;
+    height: 190px;
     /* text-align: center; */
     margin-left: 10px;
+}
+h2{
+    margin-top: 20px;
+}
+p{
+    margin-top: 10px;
 }
