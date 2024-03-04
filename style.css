@@ -38,6 +38,7 @@ body{
 }
 h2{
     margin-top: 20px;
+    font-size: 30px;
 }
 p{
     margin-top: 10px;
@@ -46,7 +47,7 @@ p{
     text-decoration: none;
     height: 35px;
     width: 120px;
-    font-size: 15px;
+    font-size: 16px;
     position: absolute;
     margin-top: 25px;
     background-color: black;
@@ -54,4 +55,6 @@ p{
     display: flex;
     justify-content: center;
     align-items: center;
+    border: 2px solid black;
+    border-radius: 4px;
 }
